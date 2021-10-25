@@ -1,4 +1,3 @@
-# Air_Properties_Calculator
 - Air Properties Calculator v.1.6 (developed in QTcreator by C++) 
 - Copyright 2018 SAQEB Co.. All rights reserved. 
 - This software calculates air properties as a function of altitude and reference temperature. 
